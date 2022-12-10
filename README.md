@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zooiiee
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI & Data Science
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 
